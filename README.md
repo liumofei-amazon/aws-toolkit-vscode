@@ -1,5 +1,7 @@
 # AWS Extensions for Visual Studio Code
 
+**Last updated: 2/13**
+
 [![Coverage](https://img.shields.io/codecov/c/github/aws/aws-toolkit-vscode/master.svg)](https://codecov.io/gh/aws/aws-toolkit-vscode/branch/master)
 
 This project is open source. We encourage issues, feature requests, code reviews, pull requests or
